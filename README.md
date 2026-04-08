@@ -1,10 +1,13 @@
 # Data Science Group Activity - Grp 13
-24BCE10412	CHANDRAMANI
-24BCE10455	RITABRATA KARMAKAR
-24BCE10843	OMKAR SAHAY
-24BCE11527	ANSHU KUMAR
-24BCY10005	SANKALP TRIPATHI
-24BCY10010	RAGHAWENDRA TIWARI
+
+| Registration No | Name                  |
+|-----------------|-----------------------|
+| 24BCE10412      | CHANDRAMANI           |
+| 24BCE10455      | RITABRATA KARMAKAR    |
+| 24BCE10843      | OMKAR SAHAY           |
+| 24BCE11527      | ANSHU KUMAR           |
+| 24BCY10005      | SANKALP TRIPATHI      |
+| 24BCY10010      | RAGHAWENDRA TIWARI    |
 
 ## IoMT Attack Detection — CIC IoMT 2024 (WiFi/MQTT)
 
